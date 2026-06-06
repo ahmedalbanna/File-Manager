@@ -1,0 +1,6 @@
+{
+  "name": "File Manager",
+  "description": "تطبيق متكامل لإدارة وتصفح الملفات على نظام أندرويد بواجهة حديثة وتصنيف تلقائي للوسائط والمستندات.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

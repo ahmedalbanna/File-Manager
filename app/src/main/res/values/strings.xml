@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">مدير الملفات</string>
+    <string name="permission_required_title">إذن الوصول للملفات</string>
+    <string name="permission_required_desc">يحتاج تطبيق مدير الملفات إلى إذن الوصول للتخزين الكامل لكي يتمكن من عرض ملفاتك ومجلداتك، ونسخها، وحذفها، وإعادة تسميتها.</string>
+    <string name="grant_permission">منح الإذن</string>
+    <string name="dashboard">الرئيسية</string>
+    <string name="explorer">المتصفح</string>
+    <string name="storage_usage">مساحة التخزين</string>
+    <string name="storage_used_format">تم استخدام %1$s من %2$s</string>
+    <string name="category_images">الصور</string>
+    <string name="category_videos">الفيديوهات</string>
+    <string name="category_audio">الصوتيات</string>
+    <string name="category_docs">المستندات</string>
+    <string name="category_apks">ملفات APK</string>
+    <string name="category_downloads">التنزيلات</string>
+    <string name="empty_folder">مجلد فارغ</string>
+    <string name="empty_category">لا توجد ملفات في هذا التصنيف</string>
+    <string name="search_hint">البحث عن الملفات والمجلدات...</string>
+    <string name="options_rename">إعادة تسمية</string>
+    <string name="options_delete">حذف</string>
+    <string name="options_copy">نسخ</string>
+    <string name="options_cut">قص</string>
+    <string name="options_paste">لصق</string>
+    <string name="options_cancel">إلغاء</string>
+    <string name="new_folder">مجلد جديد</string>
+    <string name="create_folder_title">إنشاء مجلد جديد</string>
+    <string name="rename_title">إعادة التسمية</string>
+    <string name="item_name_placeholder">اسم المجلد...</string>
+    <string name="button_create">إنشاء</string>
+    <string name="button_ok">موافق</string>
+    <string name="favorites">المفضلة</string>
+    <string name="recent_files">الملفات الأخيرة</string>
+</resources>
